@@ -1,0 +1,17 @@
+Number_of_Riders
+Number_of_Drivers
+Location_enc
+Loyalty_enc
+Number_of_Past_Rides
+Average_Ratings
+Time_enc
+Vehicle_enc
+Expected_Ride_Duration
+demand_supply_ratio
+high_demand_flag
+low_supply_flag
+surge_indicator
+rider_driver_diff
+is_premium
+is_night
+is_loyal_gold
